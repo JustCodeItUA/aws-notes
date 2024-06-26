@@ -1,5 +1,7 @@
 # AWS Cloud Technical Essentials
 
+> Written by yours https://github.com/eddienubes
+ 
 ## General
 
 ![Untitled](AWS%20Cloud%20Technical%20Essentials%201e59be40463049b08dae970cbad17615/Untitled.png)
